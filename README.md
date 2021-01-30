@@ -1,0 +1,2 @@
+# exercise-course
+about CNN
